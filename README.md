@@ -1,55 +1,64 @@
-# 📊 SkillCraft Technology – Data Analyst Internship
+# 📊 SCT_DA_1 — Sales Dashboard
 
-## Task 1: Sales Dashboard using Google Sheets
+## 📌 SkillCraft Technology – Data Analyst Internship
 
-### 📌 Objective
+### 📖 Project Overview
 
-The objective of this task is to analyze a sales dataset and create an interactive dashboard using Google Sheets. The dashboard provides meaningful insights into sales performance through Pivot Tables, Charts, and Conditional Formatting.
+This project was completed as **Task 1** of my **Data Analyst Internship** at **SkillCraft Technology**.
+
+The objective was to analyze a sales dataset using **Google Sheets**, summarize the data with **Pivot Tables**, visualize key metrics through **Charts**, and design an interactive **Sales Dashboard**. Conditional Formatting was used to identify high and low performers, making the dashboard more insightful and easier to interpret.
 
 ---
 
-## 🛠️ Tools Used
+## 🎯 Objective
+
+* Analyze sales data using Google Sheets.
+* Create Pivot Tables to summarize business data.
+* Build charts to visualize sales performance.
+* Design a clean dashboard.
+* Highlight high and low performers using Conditional Formatting.
+
+---
+
+## 🛠️ Tools & Skills Used
 
 * Google Sheets
 * Pivot Tables
 * Pivot Charts
+* Dashboard Design
 * Conditional Formatting
+* Data Analysis
+* Data Visualization
 
 ---
 
 ## 📂 Dataset
 
-The project uses the provided sales dataset (`train.csv`) to analyze:
-
-* Sales
-* Profit
-* Categories
-* Order Trends
+The project uses the provided **train.csv** sales dataset.
 
 ---
 
-## 📈 Dashboard Features
+## 📊 Dashboard Features
 
-* Total Sales KPI
-* Profit by Category
-* Monthly Sales Trend
-* High/Low Performers highlighted using Conditional Formatting
-* Clean and organized dashboard layout
+* 💰 Total Sales KPI
+* 💵 Profit by Category
+* 📈 Sales Trend Over Time
+* 🎨 Conditional Formatting for High/Low Performers
+* 📋 Interactive Dashboard Layout
 
 ---
 
-## 📊 Key Insights
+## 📸 Dashboard Preview
 
-* Identified the highest and lowest performing categories based on profit.
-* Analyzed sales trends over time using a line chart.
-* Summarized sales performance using Pivot Tables.
-* Highlighted high and low performers using Conditional Formatting for easier interpretation.
+> Replace the image below after uploading your screenshot to the **Images** folder.
+
+![Sales Dashboard](Images/dashboard.png)
 
 ---
 
 ## 📁 Project Structure
 
-```
+```text
 SCT_DA_1
 │
 ├── Dataset/
@@ -67,27 +76,38 @@ SCT_DA_1
 
 ---
 
-## 🚀 Learning Outcomes
+## 💡 Key Insights
 
-Through this task, I learned how to:
-
-* Create Pivot Tables for data summarization
-* Build Pivot Charts for visualization
-* Apply Conditional Formatting to identify high and low performers
-* Design a professional sales dashboard
-* Present business insights from data
+* Analyzed sales performance across different categories.
+* Compared category-wise profit to identify top-performing segments.
+* Observed sales trends over time using a line chart.
+* Used Conditional Formatting to quickly identify high and low performers.
+* Created a dashboard that presents business information in a clear and organized manner.
 
 ---
 
-## 📸 Dashboard Preview
+## 🎓 What I Learned
 
+Through this project, I learned how to:
 
-<img width="1650" height="1275" alt="train - Google Sheets_page-0001" src="https://github.com/user-attachments/assets/65074f92-4c9d-4e5a-b93c-2a829f681382" />
-<img width="1650" height="1275" alt="train - Google Sheets_page-0002" src="https://github.com/user-attachments/assets/f3d930c2-9be6-4a9e-b925-435eda8db95b" />
-
+* Create and customize Pivot Tables.
+* Build effective charts for business reporting.
+* Design dashboards that communicate insights clearly.
+* Apply Conditional Formatting to emphasize important information.
+* Organize and present data professionally using Google Sheets.
 
 ---
 
-### Internship
+## 🚀 Future Improvements
 
-**SkillCraft Technology – Data Analyst Internship**
+* Add interactive slicers for filtering data.
+* Include additional KPIs such as Total Orders and Average Sales.
+* Explore advanced dashboard visualizations.
+
+---
+
+## 👩‍💻 Author
+
+**Jahnavi**
+
+Data Analyst Intern at SkillCraft Technology
