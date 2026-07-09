@@ -52,8 +52,8 @@ The project uses the provided **train.csv** sales dataset.
 
 > Replace the image below after uploading your screenshot to the **Images** folder.
 
-![Sales Dashboard](Images/train - Google Sheets_page-0001.jpg
-nethulajahnavi)
+<img width="1650" height="1275" alt="train - Google Sheets_page-0001" src="https://github.com/user-attachments/assets/bd971b92-0c68-486c-b130-5ebd183617f5" />
+
 
 ---
 
